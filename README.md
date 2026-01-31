@@ -11,4 +11,4 @@ This project evaluates the tourism potential of Samsun and Tokat provinces using
 - **Visualization:** Created thematic maps in QGIS to highlight investment-friendly zones.
 
 ## Key SQL Examples
-(Buraya projen için hazırladığımız 2 ana sorguyu kod bloğu içinde ekleyebilirsin.)# Samsun-Tokat-Tourism-Analysis-GIS
+# Samsun-Tokat-Tourism-Analysis-GIS
